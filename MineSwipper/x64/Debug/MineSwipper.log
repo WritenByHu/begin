@@ -1,0 +1,4 @@
+﻿  game.c
+D:\code\clearn\MineSwipper\game.c(1,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+D:\code\clearn\MineSwipper\game.c(1,1): message : 之前在命令行上声明的“_CRT_SECURE_NO_WARNINGS”
+  MineSwipper.vcxproj -> D:\code\clearn\MineSwipper\x64\Debug\MineSwipper.exe
