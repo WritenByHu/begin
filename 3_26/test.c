@@ -82,14 +82,14 @@
 //	return 1 + get_length(str+1);
 //}
 
-int get_length(char* str) {
-	char* start = str;
-	char* end = str;
-	while (*end != '\0') {
-		end++;
-	}
-	return end - start;
-}
+//int get_length(char* str) {
+//	char* start = str;
+//	char* end = str;
+//	while (*end != '\0') {
+//		end++;
+//	}
+//	return end - start;
+//}
 
 int main() {
 	int count = 0;
